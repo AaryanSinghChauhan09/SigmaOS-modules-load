@@ -3,7 +3,7 @@ name = "SigmaOS-modules-load"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "modules-load component"
+description = "SigmaOS SigmaOS-modules-load component"
 upstream = []
 
 [contract]
